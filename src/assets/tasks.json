@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Todo 1",
+      "status": "In Progress",
+      "createdAt": "2015-12-01"
+    },
+    {
+      "id": "2",
+      "name": "Todo 2",
+      "status": "In Progress",
+      "createdAt": "2015-12-01"
+    },
+    {
+      "id": "3",
+      "name": "Todo 3",
+      "status": "In Progress",
+      "createdAt": "2015-12-01"
+    },
+    {
+      "id": "4",
+      "name": "Todo 4",
+      "status": "Done",
+      "createdAt": "2015-12-01"
+    }
+  ]
+}
